@@ -1,5 +1,3 @@
-## README
-
 # TuringMachine
 
 TuringMachine is a JavaScript project for creating and running Turing machines. It allows you to define tapes, states, and transitions to simulate tasks like binary increment, complement, and addition.
